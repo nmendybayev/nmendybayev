@@ -17,3 +17,4 @@ Feel free to explore my repositories and see the work I've done.
 - VPC: Terraform modules, reusable code, infrastructure provisioning best practices
 - Slackbot: Containerizing a Slackbot that listens to events from a Slack channel
 - nmend.dev: My website repository (code only)
+- Certbot: Managing SSL/TLS Certificates with Certbot
