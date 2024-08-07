@@ -18,3 +18,4 @@ Feel free to explore my repositories and see the work I've done.
 - Slackbot: Containerizing a Slackbot that listens to events from a Slack channel
 - nmend.dev: My website repository (code only)
 - Certbot: Managing SSL/TLS Certificates with Certbot
+- Sealed_secrets: Enhancing Infrastructure as Code Reusability with Sealed Secrets
