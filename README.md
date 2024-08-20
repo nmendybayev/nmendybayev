@@ -19,3 +19,4 @@
 - Certbot: Managing SSL/TLS Certificates with Certbot
 - Sealed_secrets: Enhancing Infrastructure as Code Reusability with Sealed Secrets
 - SpringBoot_Docker: Containerizing Java application built with SpringBoot and Maven
+- Engineering_challenge: Completing a hands-on DevOps engineering challenge
