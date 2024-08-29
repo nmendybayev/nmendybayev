@@ -8,7 +8,9 @@
 
 **Project Table:**
 
-- **ArgoCD**: A Continuous Deployment-focused project
+- **Enterprise_CICD** and **gitops-pipeline**: Implementation of robust, scalable, and secure CI/CD pipeline.
+- **Engineering Challenge**: Completing a hands-on DevOps engineering challenge
+- **ArgoCD** and **nginx-private-argo**: A Continuous Deployment-focused project
 - **GitHub Actions and ArgoCD**: A Continuous Integration-focused project
 - **EKS Cluster**: Kubernetes cluster setup with HPA, Cluster Autoscaler, and Cert Manager
 - **CSI Driver**: Enabling Kubernetes to manage AWS EBS volumes through PVs and PVCs
@@ -23,4 +25,3 @@
 - **Certbot**: Managing SSL/TLS certificates with Certbot
 - **Sealed Secrets**: Enhancing Infrastructure as Code reusability with Sealed Secrets
 - **SpringBoot Docker**: Containerizing a Java application built with SpringBoot and Maven
-- **Engineering Challenge**: Completing a hands-on DevOps engineering challenge
