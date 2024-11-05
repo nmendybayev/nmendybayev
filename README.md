@@ -1,7 +1,6 @@
-![Image](image.webp)
+![Image](image.png)
 
-
-# Hi, this is my GitHub Portfolio
+# GitHub Portfolio
 
 ## Welcome to my GitHub account! This space is dedicated only to showcasing my projects. Each project is focused on solving a specific task. Feel free to explore my repositories.
 
