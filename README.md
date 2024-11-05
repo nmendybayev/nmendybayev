@@ -1,12 +1,19 @@
-![Image](image.png)
+![Image](image.webp)
 
 
 # Hi, this is my GitHub Portfolio
 
 ## Welcome to my GitHub account! This space is dedicated only to showcasing my projects. Each project is focused on solving a specific task. Feel free to explore my repositories.
 
+**My Toolset:**
 
-**Project Table:**
+![Image](tools.png)
+
+**My Certifications:**
+
+![Image](certs.png)
+
+**My Projects:**
 
 - **Enterprise_CICD** and **gitops-pipeline**: Implementation of robust, scalable, and secure CI/CD pipeline.
 - **Engineering Challenge**: Completing a hands-on DevOps engineering challenge
