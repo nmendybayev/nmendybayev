@@ -27,7 +27,6 @@
 - **Monitoring**: Implementing monitoring with Prometheus and Grafana
 - **VPC**: Terraform modules for reusable code and infrastructure provisioning best practices
 - **Slackbot**: Containerizing a Slackbot that listens to events from a Slack channel
-- **nmend.dev**: Repository for my website (code only)
 - **Certbot**: Managing SSL/TLS certificates with Certbot
 - **Sealed Secrets**: Enhancing Infrastructure as Code reusability with Sealed Secrets
 - **SpringBoot Docker**: Containerizing a Java application built with SpringBoot and Maven
