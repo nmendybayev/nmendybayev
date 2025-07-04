@@ -14,6 +14,8 @@
 
 **My Projects:**
 
+- **ansible-dynamic-inventory**: Configurating VMs with Ansible dynamic playbook.
+- **epcvip**: Another engineering challenge, provisioning scalable AWS infrastructure using Terraform.
 - **Enterprise_CICD** and **gitops-pipeline**: Implementation of robust, scalable, and secure CI/CD pipeline.
 - **Engineering Challenge**: Completing a hands-on DevOps engineering challenge
 - **ArgoCD** and **nginx-private-argo**: A Continuous Deployment-focused project
