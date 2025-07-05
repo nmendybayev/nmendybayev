@@ -14,6 +14,7 @@
 
 **My Projects:**
 
+- **Ansible-dynamic-inventory-2**: A modularized version of the Terraform–Ansible integration project.
 - **Configuration update**: Applying configuration updates to existing virtual machines with Ansible.
 - **Ansible-dynamic-inventory**: Configurating VMs with Ansible dynamic playbook.
 - **EPCVIP**: Another engineering challenge, provisioning scalable AWS infrastructure using Terraform.
