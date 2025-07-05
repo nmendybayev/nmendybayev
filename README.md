@@ -14,6 +14,7 @@
 
 **My Projects:**
 
+- **Configuration update**: Applying configuration updates to existing virtual machines with Ansible.
 - **Ansible-dynamic-inventory**: Configurating VMs with Ansible dynamic playbook.
 - **EPCVIP**: Another engineering challenge, provisioning scalable AWS infrastructure using Terraform.
 - **Enterprise_CICD** and **gitops-pipeline**: Implementation of robust, scalable, and secure CI/CD pipeline.
